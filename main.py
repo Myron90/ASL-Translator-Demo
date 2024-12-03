@@ -1,3 +1,4 @@
+#Myron Peoples, Logan Herrera, Priscilla Devadhas, Judah Lomo, Chouchi Naotour
 import tkinter as tk
 import cv2
 import mediapipe as mp
